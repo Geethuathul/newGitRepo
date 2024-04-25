@@ -1,0 +1,4 @@
+If you're using a command-line text editor like Vim or Nano within the Terminal and you want to exit insert mode in those editors:
+
+Vim: Press the Esc key to exit insert mode and return to normal mode. You can then use commands like :w to save and :q to quit, or :wq to save and quit.
+Nano: Nano doesn't have distinct modes like Vim. You simply type your text. To save and exit, you might press Ctrl + O to write out (save) and Ctrl + X to exit.

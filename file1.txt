@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Many lines
+Many linesMany lines
+=======
+Test file created to commit in the branch testfile1
+>>>>>>> testfile1
